@@ -42,8 +42,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekromaniac&show_icons=true&theme=tokyonight)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nekromaniac&theme=tokyonight)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nekromaniac&theme=tokyonight)  
 
 <!-- ![Metrics](https://metrics.lecoq.io/Nekromaniac?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FBerlin) !-->
