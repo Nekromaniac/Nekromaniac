@@ -36,14 +36,14 @@
 
 ## Statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nekromaniac)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nekromaniac&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekromaniac)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekromaniac&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekromaniac&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekromaniac&show_icons=true&theme=tokyonight)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nekromaniac)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nekromaniac&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nekromaniac)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nekromaniac&theme=tokyonight)  
 
 <!-- ![Metrics](https://metrics.lecoq.io/Nekromaniac?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FBerlin) !-->
