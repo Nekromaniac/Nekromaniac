@@ -39,5 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekromaniac&show_icons=true&theme=tokyonight&locale=en" alt="nekromaniac" /></p>
 
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Nekromaniac" alt="nekromaniac" /></p>
 
 <!-- ![Metrics](https://metrics.lecoq.io/Nekromaniac?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FBerlin) !-->
