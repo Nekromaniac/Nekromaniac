@@ -1,4 +1,4 @@
-![grafik](https://user-images.githubusercontent.com/98266010/150684639-fa952b76-53c1-457d-9755-ec59eb9eb42c.png)
+![grafik](https://user-images.githubusercontent.com/98266010/150686949-f56bb537-d1f3-4766-9d81-d0540e7bbef0.png)
 <h1 align="center">Hi 👋, I'm Nekromaniac</h1>
 <h3 align="center">A passionate developer and student from Germany</h3>
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **N/A.**
 
-- ⚡ Fun fact **I think that you think that I think something.**
+- ⚡ Fun fact **I think that this is stupid.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
