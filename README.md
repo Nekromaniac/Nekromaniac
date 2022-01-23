@@ -1,6 +1,6 @@
 ![grafik](https://user-images.githubusercontent.com/98266010/150686949-f56bb537-d1f3-4766-9d81-d0540e7bbef0.png)
 <h1 align="center">Hi 👋, I'm Nekromaniac</h1>
-<h3 align="center">A passionate developer and student from Germany</h3>
+<h3 align="center">A passionate developer and pog from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekromaniac&label=Profile%20views&color=0e75b6&style=flat" alt="nekromaniac" /> </p>
 
