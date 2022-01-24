@@ -1,4 +1,4 @@
-![grafik](https://user-images.githubusercontent.com/98266010/150686949-f56bb537-d1f3-4766-9d81-d0540e7bbef0.png)
+![grafik](https://user-images.githubusercontent.com/98266010/150822738-81723021-166e-4670-a0a4-9cf8aa34380e.png)
 <h1 align="center">Hi 👋, I'm Nekromaniac</h1>
 <h3 align="center">A passionate developer and pog from Germany</h3>
 
